@@ -39,6 +39,11 @@ nav {
     padding-right: 24px;
     margin-right: 10px;
     opacity: 0.8;
+} 
+main {
+    background-image: url("../Media/GundamSeedImage.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .floatright {
     float: right;
