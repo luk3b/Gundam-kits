@@ -38,9 +38,18 @@ nav {
     height: 420px;
     padding-right: 24px;
     margin-right: 10px;
+    opacity: 0.8;
 }
 .floatright {
     float: right;
     clear: right;
     margin: 10px;
 }
+nav a {
+    display: block;
+    border: 2px solid #b3b3b3;
+    padding: 2px 5px;
+    background: #d580ff;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 5px 5px 5px #808080;
