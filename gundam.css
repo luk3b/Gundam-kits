@@ -60,9 +60,8 @@ main {
     box-shadow: 5px 5px 5px #808080;
 }
 #img-rotate {
-    z-index: -1;
-    position: relative;
-    -ms-transform: rotate(345deg); /* Microsoft Edge */
-    -webkit-transform: rotate(345deg); /* Chrome and Safari */
     transform: rotate(345deg);
-    
+}
+#video-rotate {
+    transform: rotate(15deg);
+}
