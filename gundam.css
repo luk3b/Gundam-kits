@@ -25,6 +25,7 @@ h1 {
     font-family: arial, helvetica, geneva, sans-serif;
     margin-top: 5px;
     margin-bottom: 0px;
+    z-index: 1;
 }
 header {
     border-bottom-style: solid;
