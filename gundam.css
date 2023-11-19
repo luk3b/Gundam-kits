@@ -63,7 +63,7 @@ section {
 }
 #img-rotate {
     transform: rotate(345deg);
-    z-indext: -1;
+    z-index: -1;
 }
 #video-rotate {
     transform: rotate(15deg);
