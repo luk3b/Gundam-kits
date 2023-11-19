@@ -59,8 +59,18 @@ main {
     text-decoration: none;
     box-shadow: 5px 5px 5px #808080;
 }
-#img-rotate {
-    transform: rotate(345deg);
+.rotate_01{
+    display: block;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    height: 150px;
+    margin: -60px 0 0 -280px;
+    -webkit-transition: -webkit-transform 1s;
+}
+.rotate_01:hover{
+    -webkit-transform: rotate(360deg) translateZ;
 }
 #video-rotate {
     transform: rotate(15deg);
