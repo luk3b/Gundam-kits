@@ -40,10 +40,11 @@ nav {
     margin-right: 10px;
     opacity: 0.8;
 } 
-main {
-    background-image: url("/Media/GundamSeedimage.jpg");
+section {
+    background-image: url("/Media/gundamwallpaperbackground.jpg");
     background-repeat: no-repeat;
     background-size: contain;
+    opactiy: 0.5;
 }
 .floatright {
     float: right;
