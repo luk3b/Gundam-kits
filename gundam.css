@@ -41,7 +41,7 @@ nav {
     opacity: 0.8;
 } 
 section {
-    background-image: url("/Media/gundamwallpaperbackground.jpg");
+    background-image: url("Media/gundamwallpaperbackground.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     opactiy: 0.5;
